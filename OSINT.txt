@@ -1,0 +1,97 @@
+Metodos de mineração de dados OSINT
+
+Obs.
+sock Puppet
+criar perfil
+
+sites
+secjuice.com (especializado em OSINT)
+jackpreps.com
+
+Nome:fakenamegenerator.com (gerador de nomes para contas fake)
+
+Foto:thispersondoesnotexist.com (fotos perfil)
+
+Perfil Fike: https://www.fakenamegenerator.com
+
+
+Criação Cartão de Crédito não rastre
+privacy.com
+
+===================================================================
+
+OSINT Framework
+
+OSINT.io
+
+===================================================================
+
+PASSOS
+
+BUSCADORES
+
+1 - GOOGLE HACKING
+ { 
+    (coletar dados de empresas, pessoas)
+    (usar DORKS)
+    site: https://www.google.com/advanced_search (montar as Dordks de forma visual)
+ }
+
+2 - BUSCA REVERSADE IMAGENS 
+    (Buscar localização que foi tirada determinada foto
+
+  { sites:
+    https://imginn.com  (baixar imagens instalgam)
+    https://codeofaninja.com/tools/find-instagram-user-id/ (pesquisa ID)
+    
+    pesquisa imagens 
+    google images 
+    yandex.com
+
+    Busca por padrões de fotos
+    https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+
+    Pesquiscar metadados de imagens (exiftoo) 
+    http://exif.regex.info/exif.cgi
+
+  }   
+
+    com a imagem feita donlwoad realizar a busca no "google imagens" para buscar imagens  semelhantes
+
+
+===================================================================
+
+     ANALISAR PERFIS DO TWITER (busca avanaçada) 
+     https://twitter.com/search-advancedttps://imginn.com
+
+     ANALISAR PERFIL PERÍODO DE POSTAGENS / PERFIL DE POSTAGENS
+
+     https://socialbearing.com
+     http://sleepingtime.org/ (Período de postagens )
+     https://tinfoleak.com/  (Relata publicações, links externos, analisar perfil)
+
+     Monitorar Geo localzação
+     https://tweetdeck.twitter.com/
+
+     Sistemas de OSINT
+     https://www.tracelabs.org/initiatives/osint-vm (Sistema kali linux 
+      com algumas ferramentas mais, iniciativa para ajudar a encontrar
+      pessoas desaparecidas.)
+
+
+     Trabalha com 
+     USERNAME
+     http://namechk.com/ (pesquisar pessoas por username)
+     https://whatsmyname.app/
+     https://namecheckup.com/
+ 
+     PESSOAS
+     https://webmii.com/ (pesquisa pessoas no brasil)
+    
+     BACKGROUND CHECKER (VERIFICAR HISTÓRICO DE UMA PESSOA)
+     https://exato.digital/?gclid=EAIaIQobChMIoreprbjs7QIVEgiRCh2OvQ6bEAAYASAAEgLZgPD_BwE
+
+
+     https://wigle.net (mapeamentode redes WIFIm, resultado de WARDRIVEs realiados)
+
+
