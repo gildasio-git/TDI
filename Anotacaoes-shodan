@@ -1,0 +1,28 @@
+SHODAN
+
+Vefificar tendências de busca do google 
+tends.google.com.br
+tends.google.com
+
+flags de pesquisa
+
+(webcam) {traz infomrações sobre o host remoto}
+ - ip
+ - localização
+
+
+filtros 
+city: "porto alegre" (busca dispositivos por cidades que estejam conectados)
+
+
+Observação:
+ -Pode pesquisar por SHODAN DORCKS
+  obtera listas com parâmetros de pesquisa no SHODAN
+
+
+comando para filtro de registros de email  
+  - host - t MX  "nome do hsot " 
+    -t = tipo 
+  
++++AULA HACKEANDO DISPOSITIVOS IOT+++
+ 		
