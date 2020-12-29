@@ -1,0 +1,22 @@
+
+Uso padrão do NMAP
+
+
+nmap ip_alvo 
+ -> esse modo pode ser bloqueado.
+
+nmap -sP (Verifica algo ativo apenas)
+
+nmap -p 21 ip_alvo (foca especificamente me uma porta alvo)
+
+nmap -sS -p 21 (verifica apenas se a porta esta aberta
+                enviando um pacote SYN porém, mesmo que a porta 
+                esteja aberta ele não inicia uma conexão)
+
+
+nmap -sP 192.168.0/24 -oG saidanmap
+      -oG -> permite salvar uma saida de resultados dos comando nmap 
+
+nmap -sP -v 192.168.1.10 (mostra detalhadamente o que a ferramenta esta fazendo)
+
+
