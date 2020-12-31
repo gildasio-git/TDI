@@ -1,0 +1,54 @@
+-Lista de portas | PROTOCOLOS
+
+Site:
+
+pt.wikipedia.org/Wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP
+
+-Lista de portas principais - scanner padrão NMAP
+
+securitytrails.com/blog/top-scanned-ports
+
+
+VERIRICANDO UMA DETERMINADA PORTA
+
+(hping3)
+
+uso:
+
+sudo hping3 -c 1 --syn -p 80 "endereço do alvo"
+  (envia um pacote do tipo syn na porta 80 do alvo
+  caso retorne a FLAG=RA, siginifica Portao fechada, FLAG=SA synACK porta aberta)
+
+Nmap - testando a comunicação com a porta 
+
+sudo nmap -sS -p 80 "endereço do alvo" (verifica respostada porta_
+
+sudo nmap -sS -p 80 "endereço do alvo" --reason (mostra a razão da porta estar aberta)
+
+obs: quando receber uma FLAG como "filered" identifica um firewall ativo na maquina 
+
+IDENTIFICAR OS HOSTS ATIVO EM UMA REDE 
+
+nmap -sn 192.168.0/24 
+
+SALVANDO OS HOSTS ATIVO EM UMA REDE EM UM ARQUIVO 
+
+nmap -sn 192.168.0/24 -oG hosts_alive.txt
+
+TRAZENDO AS PORTAS 3306 ABERTAS EM UM CONJUNTO DE MAQUINAS ALVO
+
+nmap -sS -p 3306 --open -Pn -iL "arquivos_contendo_os_hosts_filrados"
+
+Pn -> essa flag vocẽ diz ao NMAP que não fazer conexão, apenas verificar a conexão SYN
+iL -> essa flag permite apontar o arquivo com os HOSTS ativos previamente filtrados.
+
+SALVANDO O RESULTADO ACIMA EM UM ARQUIVO TXT
+
+nmap -sS -p 3306 --open -Pn -iL "arquivo.txt" -oG "Resultado.txt"
+
+
+
+
+
+  
+
