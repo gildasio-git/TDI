@@ -1,6 +1,35 @@
 VULNERABILIDADES ENCONTRADA EM INTERNET DAS COISAS | (IOT) 
-Internet Off Thinks
 
+Internet Off Thinks
+Aparelhoes ligados a internet
+(Carros, fechaduras inteligentes,  câmeras de segurança, roteadores, cortinas
+de casa, lâmpadas, ar-condicionados....)
+
+
+
+PERIGOS 
+www.scidev.net / números de dados trafegados por mês 
+
+Afeta os pilares da Segurança da Informação.
+(Confidencialidade, Integridades, Disponibilidades)
+
+TIPOS DE FALHAS
+Usuário: Utilização de portas padrões, senhas padrões, não atualização
+de firmware. 
+
+Fabricantes: Dispositivos geneŕios.
+
+
+SHODAN (google dos dispositivos)
+
+Pesquisando Cameras
+
+Firmware-mod-kit (Solftware para fazer modificações em arquivos de Firmware
+pode ser utilizado para analizar os binários dos firmwares dos roteadores
+filtrados no dhodan para verificar se existe alguma informação util.
+
+binwalkl - verificar informações acerta do arquivo, equivalente ao FILE 
+porém mais avançado.
 
 
 
