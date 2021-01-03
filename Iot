@@ -31,5 +31,30 @@ filtrados no dhodan para verificar se existe alguma informação util.
 binwalkl - verificar informações acerta do arquivo, equivalente ao FILE 
 porém mais avançado.
 
+IDENTIFICAR VULNERABILIDADES
+
+google hacking (Parâmentros DOCKS) 
+
+Exemplos:
+
+intitle:"NETSurveillance WEB" (Dispositivos de DVR)
+obs: pode usar esse mesmo parâmetrop no SHODAN
+
+webcamxp
+
+PSQUISCAR VULNERABILIDADES EM ROTEADORES
+https://vuldb.com
+
+parâmetro filtro google
+
+site:vuldb.com dir-645
+
+LOCALIZAR FABRICANTE MAC ADDRES
+
+site:
+https://macvendors.com
+
+cole o mac address no campo.
+
 
 
