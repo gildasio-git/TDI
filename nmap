@@ -20,3 +20,17 @@ nmap -sP 192.168.0/24 -oG saidanmap
 nmap -sP -v 192.168.1.10 (mostra detalhadamente o que a ferramenta esta fazendo)
 
 
+ENCONTRANDO VERSÕES E SERVIÇOS RODANDO NAS PORTAS
+
+nmap -sS -Pn 192.168.1.10 
+
+TRAZENDO A VERSÃO DO SERVIÇO EM UMA PORTA ESPECÍFICA 
+ - BANNER GRAB - 
+
+nmap -sV -p 22 192.168.1.10
+
+
+FILTRANDO TODAS INFORMAÇÕES, SISTEMA OPERACIONAL, PORTAS E SERVIÇOS 
+Obs. faz muito barulho na rede, não aconselhável 
+
+nmap -A "ip_Alvo"
