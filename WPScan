@@ -1,0 +1,13 @@
+SCANNAR VULNERABILIDADES WORDPRESS
+
+Uso:
+
+Flags
+--url -> endereço da página 
+--enumerate -> enumera os plugins vulneráveis 
+-u -> lista usuários 
+
+
+wpscan --url  "endereço da página alvo" --enumerate u
+ 
+
