@@ -49,12 +49,32 @@ parâmetro filtro google
 
 site:vuldb.com dir-645
 
-LOCALIZAR FABRICANTE MAC ADDRES
+LOCALIZAR FABRICANTE MAC ADDRESS
 
 site:
 https://macvendors.com
 
 cole o mac address no campo.
+
+DESCOBRIR SEU IP INTERNO 
+curl ifconfig.co
+
+CUIDADOS 
+
+Verificar a necessidade real de expor algum dispositivo a rede externa 
+
+Manter seus dispostivos atualizados 
+
+Não manter senhas padõres de fabricantes, bem como portas de conexão padrão
+
+Caso possível utilizar VPNs para conexão remota a seus dispositivos 
+
+Configurar um filtro com permissões restridas a a cesso ao dispositivo 
+
+Manter serviços em portas altas 
+
+
+
 
 
 
