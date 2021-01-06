@@ -1,0 +1,29 @@
+
+Enganando Logs (Scan Stealth)
+Fala hackers!
+Deixando esta aula bônus aqui para vocês.
+
+Vamos entender como varreduras podem ser "barulhentas" e como realizar scans "disfarçados", que podem passar desapercebidos por administradores de redes desavisados... 
+
+Comandos utilizados: 
+
+PADRÃO: 
+
+# curl -v ~ALVO~
+
+# nmap -p 80 --script http-trace ~ALVO~
+
+
+FALSIFICANDO O USER AGENT:  ​
+
+# nmap -p 80 –script http-trace –script-args http.useragent="User Agent Modificado" ~ALVO~
+
+# curl -A "User Agent Modificado" -v  ~ALVO~
+
+
+
+LINKS:
+Nmap Cheat Sheet
+https://resources.infosecinstitute.com/topic/nmap-cheat-sheet-part-4/
+
+
