@@ -1,6 +1,6 @@
 MOEDAS DIGITAIS | 1980
 
--> ESCACEX X VALOR 
+-> ESCASSEZ X VALOR 
 
 -> RESERVA DE VALOR 
 
@@ -21,7 +21,7 @@ DURABILIDADE            +   0   +   3   +   2   + 3
 CONFIABILIDADE          +   2   +   2   +   2   + 3
 ACEITABILIDADE          +   1   +   2   +   3!  + 1
 ESCASSEZ                +   1   +   3!  +   1   + 3!
-DESCENTRALIZAÇÃO        +       +       +       +
+DESCENTRALIZAÇÃO        +   3   +   3   +   0   + 3
 
 FIAT * (dinheiro confiado ao país ) emitido pelo BCENTRAL
 BTC -> programado para 8 casas decimais 
@@ -29,4 +29,20 @@ SATOCHI -> MÍNIMA DIVISÃO DO BITCOIN | 1 BTC POSSUI 100.000 SATOSHI
            17,8 MILHOES DE BTC JA EMITIDOS , AO TODO 21 MILHÕES, NÃO EXISTIRÃO MAIS 
            EMITIDOS NOS PRÓXIMOS 120 ANOS.
 
- 
+
+O QUE SÃO CRIPTOMOEDAS 
+Todas moedas Digitais que existem e que usa os sistema BlockChains
+como sistema por tráz.
+Sistema financeiro paralelo.
+
+As CRIPTOMOEDAS funcionam por uma criptografia ASSIMÉTRICA
+Usuário tem chave publica e chave privada.
+publica - > como se fosse a conta bancária do usuário.
+privada -> senha da conta 
+
+Dentro da BLOKCHAIN - livro de registros públicos, todas as transações
+são registradas.DENTRO desse livro de registros públicos 
+você vai usar sua chave privada para autentidade de sua transação. Um 
+sistema de dinheiro eletrônico de pessoa pra pessoa, PONTO X PONTO 
+
+
