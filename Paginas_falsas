@@ -1,0 +1,20 @@
+
+Ataque não direcionados 
+
+Ferramentas
+Zphisher
+https://github.com/htr-tech/zphisher
+
+
+Ngrok
+*baixando e instalando ngrop*
+https://ngrok.com/
+
+Após instalar o ngrok, usando o zphisher crie uma página clone
+inicialize o serviço apache 
+e rode o comando: ngrok 80
+
+Ataques Direcionados 
+
+Ferramentas
+set toolkit 
